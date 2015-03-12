@@ -4,6 +4,7 @@
     <string name="app_name">PruebasWiFi</string>
     <string name="hello_world">Hello world!</string>
     <string name="buscar_wifi">Buscar WiFi</string><string name="action_settings">Settings</string>
+    <string name="estado_wifi">Estado del Wifi</string>
     
 
 </resources>
